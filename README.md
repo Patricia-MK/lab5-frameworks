@@ -5,7 +5,7 @@ CSC 4035 Lab 5:UI Frameworks in Practice
 - Chaabilo Lubobya  
 
 # Tools Used & Our Experience
-Bootstrap
+# Bootstrap
 We used Bootstrap to quickly build a responsive page layout using the grid system.  
 Allowing us to style the navbar, alerts, buttons, and layout without writing any custom CSS.  
 Experience: It was easy to implement and good for structured design. We appreciated the ready-made components.
